@@ -1,0 +1,8 @@
+prefix=/home/shenbax/ROS_Project/install
+
+Name: aru_stuff
+Description: Description of aru_stuff
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/shenbax/ROS_Project/install/lib 
+Requires: 
