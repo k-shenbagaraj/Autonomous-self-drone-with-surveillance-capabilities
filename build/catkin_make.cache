@@ -1,0 +1,2 @@
+aru_stuff:arucostuff:bebop_autonomy/bebop_autonomy:bebop_autonomy/bebop_description:bebop_autonomy/bebop_driver:bebop_autonomy/bebop_msgs:bebop_autonomy/bebop_tools
+-DCATKIN_DEVEL_PREFIX=/home/shenbax/ROS_Project/devel -DCMAKE_INSTALL_PREFIX=/home/shenbax/ROS_Project/install -G Unix Makefiles
